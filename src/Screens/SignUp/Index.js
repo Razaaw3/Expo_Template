@@ -1,10 +1,10 @@
 import { View, Text } from 'react-native'
 import React from 'react'
-import Style from './Style'
+import styles from './Style'
 
 const Index = () => {
   return (
-    <View>
+    <View style={styles.mainContainer}>
       <Text>Index</Text>
     </View>
   )
