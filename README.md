@@ -1,4 +1,4 @@
-# React Native Expo Template
+# React Native Expo Template 📱
 
 This is a template for creating a React Native Expo application with TypeScript, pre-configured with ESLint and TypeScript settings.
 
@@ -11,7 +11,6 @@ This is a template for creating a React Native Expo application with TypeScript,
 - [Updating Dependencies](#updating-dependencies)
 - [Folder Structure](#folder-structure)
 - [Additional Information](#additional-information)
-- [License](#license)
 
 ## Getting Started
 
