@@ -58,16 +58,27 @@ Additionally, you can ensure that you have the correct package versions by runni
 ### Folder Structure
 The project is structured as follows:
 
-├── assets/              # Contains fonts, images, and other assets
-├── src/                 # Source code for your application
+```
+/
+├── assets/
+│   ├── Fonts/         # Contains fonts assets
+├── src/
+│   ├── assets/
+│       ├── images/       # Contains image assets
 │   ├── components/      # Reusable components
 │   ├── navigation/      # Navigation setup
-│   ├── screens/         # Individual application screens
-│   ├── App.tsx          # Main application entry point
-│   └── ...
-├── .eslintrc.js         # ESLint configuration
+│   ├── screens/
+│   │   ├── login/       # Login-related components and screens
+│   │   ├── signup/      # Signup-related components and screens
+│   │   ├── ...          # Other screen-related components and screens
+├── .eslintrc.js          # ESLint configuration
 ├── tsconfig.json         # TypeScript configuration
+├── App.tsx               # Main application entry point
+├── package.json          # Project dependencies and scripts
+├── app.json              # Expo configuration
 └── ...
+
+```
 
 ### Additional Information
 For more information on Expo visit [Expo Docs](https://docs.expo.dev/)
