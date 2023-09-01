@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AJ-Salon",
-    "slug": "AJ-Salon",
+    "name": "Expo-TS-Template",
+    "slug": "Expo-TS-Template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
