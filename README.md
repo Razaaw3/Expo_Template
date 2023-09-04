@@ -80,4 +80,4 @@ The project is structured as follows:
 ```
 
 ### Additional Information
-For more information on Expo visit [Expo Docs](https://docs.expo.dev/)
+For more information on Expo visit [Expo Docs](https://docs.expo.dev/) 
